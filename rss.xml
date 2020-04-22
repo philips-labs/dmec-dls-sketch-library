@@ -5,14 +5,17 @@
         <description>Digital Marketing eCommerce - Design Language System</description>
         <link>https://github.com/philips-software/dmec-dls-sketch-library</link>
         <image>
+            <url>
+                https://raw.githubusercontent.com/philips-software/dmec-dls-sketch-library/master/cover.png
+            </url>
             <title>DMeC DLS</title>
         </image>
         <generator>Sketch</generator>
         <item>
             <title>DMeC DLS</title>
-            <pubDate>Wed, 22 Apr 2020 11:47:03 GMT</pubDate>
+            <pubDate>Wed, 22 Apr 2020 14:15:03 GMT</pubDate>
             <link>https://github.com/philips-software/dmec-dls-sketch-library</link>
-            <enclosure url="https://github.com/philips-software/dmec-dls-sketch-library/raw/master/dmec-dls.sketch" type="application/octet-stream" sparkle:version="1.0.0" />
+            <enclosure url="https://github.com/philips-software/dmec-dls-sketch-library/raw/master/dmec-dls.sketch" type="application/octet-stream" sparkle:version="1.0.1" />
         </item>
     </channel>
 </rss>
