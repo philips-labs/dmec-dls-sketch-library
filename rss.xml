@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Dmec DLS</title>
+        <description>Digital Marketing eCommerse - Design Language System</description>
+        <link>https://github.com/philips-software/dmec-dls-sketch-library</link>
+        <image>
+            <title>Dmec DLS</title>
+        </image>
+        <generator>Sketch</generator>
+        <item>
+            <title>Dmec DLS</title>
+            <pubDate>Wen, 22 Apr 2020 12:41:00 GMT</pubDate>
+            <link>https://github.com/philips-software/dmec-dls-sketch-library</link>
+            <enclosure url="https://github.com/philips-software/dmec-dls-sketch-library/raw/master/dmec-dls.sketch" type="application/octet-stream" sparkle:version="1.0.0" />
+        </item>
+    </channel>
+</rss>
