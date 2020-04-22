@@ -2,6 +2,7 @@
 
 Digital Marketing eCommerce - Design Language System - Sketch library
 
-Copy paste the following url to your browser:
-
-> sketch://add-library?url=https://raw.githubusercontent.com/philips-software/dmec-dls-sketch-library/master/rss.xml
+To install, copy/paste the url below in any browser address bar 
+```
+sketch://add-library?url=https://raw.githubusercontent.com/philips-software/dmec-dls-sketch-library/master/rss.xml
+```
