@@ -1,3 +1,4 @@
+![cover](cover.png)
 # DMEC DLS sketch Library
 
 Digital Marketing eCommerce - Design Language System - Sketch library
