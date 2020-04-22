@@ -1,9 +1,10 @@
-![cover](cover-baner.png)
-# DMEC DLS sketch Library
+![cover](readme-images/cover-baner.png)
+# DMEC DLS - Sketch Library
 
 Digital Marketing eCommerce - Design Language System - Sketch library
 
-To install, copy/paste the url below in any browser address bar 
+**To install the sketch library, copy/paste the url below in any browser address bar** 
+
 ```
 sketch://add-library?url=https://raw.githubusercontent.com/philips-software/dmec-dls-sketch-library/master/rss.xml
 ```
