@@ -3,10 +3,10 @@
     <channel>
         <title>DMeC DLS</title>
         <description>Digital Marketing eCommerce - Design Language System</description>
-        <link>https://github.com/philips-software/dmec-dls-sketch-library</link>
+        <link>https://github.com/philips-labs/dmec-dls-sketch-library</link>
         <image>
             <url>
-                https://raw.githubusercontent.com/philips-software/dmec-dls-sketch-library/master/readme-images/cover.png
+                https://raw.githubusercontent.com/philips-labs/dmec-dls-sketch-library/master/readme-images/cover.png
             </url>
             <title>DMeC DLS</title>
         </image>
@@ -14,8 +14,8 @@
         <item>
             <title>DMeC DLS</title>
             <pubDate>Wed, 22 Apr 2020 14:15:03 GMT</pubDate>
-            <link>https://github.com/philips-software/dmec-dls-sketch-library</link>
-            <enclosure url="https://github.com/philips-software/dmec-dls-sketch-library/raw/master/dmec-dls.sketch" type="application/octet-stream" sparkle:version="1.0.2" />
+            <link>https://github.com/philips-labs/dmec-dls-sketch-library</link>
+            <enclosure url="https://github.com/philips-labs/dmec-dls-sketch-library/raw/master/dmec-dls.sketch" type="application/octet-stream" sparkle:version="1.0.3" />
         </item>
     </channel>
 </rss>
