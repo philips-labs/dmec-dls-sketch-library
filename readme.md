@@ -8,3 +8,7 @@ Digital Marketing eCommerce - Design Language System - Sketch library
 ```
 sketch://add-library?url=https://raw.githubusercontent.com/philips-labs/dmec-dls-sketch-library/master/rss.xml
 ```
+
+## Copyright
+   
+© Koninklijke Philips N.V., 2004 - 2020. All rights reserved.
